@@ -28,6 +28,12 @@ Sistemas de cadastrar filmes em um locadora
 
 # O Usuário entra com *Email* e *Senha* e é direcionado para tela do **CRUD**
 
+![image](https://user-images.githubusercontent.com/48262372/88610889-32712300-d05e-11ea-9600-11a175e8bddc.png)
+
+# Nessa Tela o usuário terá a opção de *Editar*, *Excluir*, * Detalhar* e Adicionar um novo filme.
+
+
+
 
 
 

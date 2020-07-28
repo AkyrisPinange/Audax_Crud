@@ -35,7 +35,7 @@ Sistemas de cadastrar filmes em um locadora
 ![editar](https://user-images.githubusercontent.com/48262372/88611338-33568480-d05f-11ea-9f36-c536e125bd74.PNG)
 
 
-#Tela de Detalhas do Filme
+# Tela de Detalhas do Filme
 ![detalhes](https://user-images.githubusercontent.com/48262372/88611341-33ef1b00-d05f-11ea-9f67-5f9927ed73f2.PNG)
 
 
